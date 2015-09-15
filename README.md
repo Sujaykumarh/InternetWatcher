@@ -1,4 +1,12 @@
-This GNOME extension helps you watch internet connection for disconnection.
+This GNOME extension helps you watch INTERNET connection for disconnection.
+
+This extension uses external IP address provided by the ISP to determine the connection state.
+
+
+##Screenshot of extension
+
+![](https://github.com/Sujaykumarh/InternetWatcher/blob/master/extension.jpg)
+
 
 
 ---------------------------------
