@@ -1,0 +1,6 @@
+{
+  "shell-version": ["3.14.4"],
+  "uuid": "internet_watcher@sujaykumarh.com",
+  "name": "Internet Watcher",
+  "description": "This extension helps you watch internet connection"
+}
